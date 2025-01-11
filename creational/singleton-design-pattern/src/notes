@@ -1,0 +1,7 @@
+The Singleton method or Singleton Design pattern is one of the simplest design patterns.
+It ensures a class only has one instance,
+and provides a global point of access to it.
+
+Real time example: Logger, Database Connection
+
+Resources: https://www.geeksforgeeks.org/singleton-design-pattern/
